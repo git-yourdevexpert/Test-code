@@ -1,0 +1,1 @@
+<a href="{{Route('users.edit',['user'=>$user->id])}}">{{$text}}</i></a>
